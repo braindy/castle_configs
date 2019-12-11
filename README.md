@@ -21,7 +21,7 @@ MinesManagerUpgradePrice – цены апгрейдов менеджера дл
 
 MineManagerOfflineReward – сколько ресурса менеджер каждой шахты приносит в оффлайне
 
-
+<br>
 
 units_config.json
 
