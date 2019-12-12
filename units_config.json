@@ -1,9 +1,9 @@
 {
     "BarrackAutoProductionDurations": {
-        "warrior": 2,
-        "unit2": 3,
-        "unit3": 4,
-        "unit4": 5
+        "warrior": 10,
+        "unit2": 20,
+        "unit3": 60,
+        "unit4": 300
     },
     "BarrackInteractionForce": {
         "warrior": 0.33,
