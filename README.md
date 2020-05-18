@@ -1,7 +1,7 @@
 # castle_configs
 
 
-resources_config.json
+###resources_config.json
 
 DefaultResourcesCount – кол-во ресов на старте
 
@@ -23,7 +23,7 @@ MineManagerOfflineReward – сколько ресурса менеджер ка
 
 <br>
 
-units_config.json
+###units_config.json
 
 BarrackAutoProductionDurations – длительность одного цикла выработки
 
