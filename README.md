@@ -1,7 +1,24 @@
 # castle_configs
 
+"warrior", "unit2", "unit3", "unit4" = Воин, Лучник, Маг, Рыцарь
+coins, res2, res3, res4, gems = Золото, Дерево, Зелье, Пшеница, Гемы
 
-###resources_config.json
+### config.json
+
+victoriesToLevelUnlock – сколько нужно побед для следующего уровня игрока
+
+boosters – настройки параметров бустеров
+
+MaxMineManagerLevel – максимальный уровень менеджера шахт
+
+raidRequiredUnits – сколько нужно юнитов чтобы начать каждую следующую осаду
+
+raidVictoryReward – награда за осаду
+
+robberyCooldownMinutes – перезарядка грабежа
+ 
+
+### resources_config.json
 
 DefaultResourcesCount – кол-во ресов на старте
 
@@ -23,7 +40,7 @@ MineManagerOfflineReward – сколько ресурса менеджер ка
 
 <br>
 
-###units_config.json
+### units_config.json
 
 BarrackAutoProductionDurations – длительность одного цикла выработки
 
