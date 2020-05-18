@@ -1,6 +1,7 @@
 # castle_configs
 
 "warrior", "unit2", "unit3", "unit4" = Воин, Лучник, Маг, Рыцарь
+
 coins, res2, res3, res4, gems = Золото, Дерево, Зелье, Пшеница, Гемы
 
 ### config.json
