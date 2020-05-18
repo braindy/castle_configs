@@ -21,5 +21,31 @@
             "maxPercent": 100,
             "maxDurationMinutes": 90
         }
-    }
+    },
+    "MaxMineManagerLevel": 6,
+    "raidRequiredUnits": {
+        "unitTypesOrder": [
+            "warrior", "unit2", "unit3", "unit4"
+        ],
+        "values": [
+            [0, 0, 0, 0],
+            [30, 0, 0, 0],
+            [60, 10, 0, 0],
+            [100, 50, 10, 0],
+            [1000, 500, 350, 50]
+        ]
+    },
+    "raidVictoryReward": {
+        "currencies": ["coins", "gems"],
+        "values": [
+            [0, 0],
+            [1000, 10],
+            [10000, 20],
+            [100000, 30],
+            ["1e+6", 40],
+            ["1e+7", 50],
+            ["1e+8", 60]
+        ]
+    },
+    "robberyCooldownMinutes": 3
 }
