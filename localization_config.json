@@ -7,5 +7,47 @@
     "player_rank_6": { "en": "Lord" },
     "player_rank_7": { "en": "Lord" },
     "player_rank_8": { "en": "Lord" },
-    "player_rank_9": { "en": "Lord" }
+    "player_rank_9": { "en": "Lord" },
+    "lvl": {
+        "en": "lvl",
+        "ru": "ур."
+    },
+
+    "coins_mine_header": {
+        "en": "Шахта",
+        "ru": "Шахта"
+    },
+    "res2_mine_header": {
+        "en": "Лесопилка",
+        "ru": "Лесопилка"
+    },
+    "res3_mine_header": {
+        "en": "Завод",
+        "ru": "Завод"
+    },
+    "res4_mine_header": {
+        "en": "Пшеница",
+        "ru": "Пшеница"
+    },
+
+    "warrior_barrack_header": {
+        "en": "Воины",
+        "ru": "Воины"
+    },
+    "unit2_barrack_header": {
+        "en": "Лучники",
+        "ru": "Лучники"
+    },
+    "unit3_barrack_header": {
+        "en": "Волшебники",
+        "ru": "Волшебники"
+    },
+    "unit4_barrack_header": {
+        "en": "Рыцари",
+        "ru": "Рыцари"
+    },
+    "timer_done": {
+        "en": "Ready",
+        "ru": "Готово"
+    }
 }
