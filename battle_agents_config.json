@@ -1,0 +1,22 @@
+{
+    "warrior": {
+        "cooldown": 1.2,
+        "radius": 1.65,
+        "attackType": "melee"
+    },
+    "unit2": {
+        "cooldown": 2,
+        "radius": 7.5,
+        "attackType": "range"
+    },
+    "unit3": {
+        "cooldown": 2,
+        "radius": 5,
+        "attackType": "range"
+    },
+    "unit4": {
+        "cooldown": 2,
+        "radius": 2,
+        "attackType": "melee"
+    }
+}
