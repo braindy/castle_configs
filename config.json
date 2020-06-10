@@ -110,5 +110,6 @@
 
         ]
     },
-    "robberyCooldownMinutes": 3
+    "robberyCooldownMinutes": 3,
+    "raidLossesMultiplier": 0.6
 }
